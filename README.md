@@ -1,2 +1,2 @@
-# USPTO
-Kaggle Competition USPTO 
+# Child Mind Internet Use
+Kaggle Competition Child Mind
